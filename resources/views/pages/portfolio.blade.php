@@ -18,7 +18,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-1.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-1.jpg" alt="Portolio Image">
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -26,7 +26,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-2.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-2.jpg" alt="Portolio Image">
                         <div><span>Youtube Project</span></div>
                     </figure>
                 </li>
@@ -34,7 +34,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-3.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-3.jpg" alt="Portolio Image">
                         <div><span>Slider Project</span></div>
                     </figure>
                 </li>
@@ -42,7 +42,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-4.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-4.jpg" alt="Portolio Image">
                         <div><span>Local Video Project</span></div>
                     </figure>
                 </li>
@@ -50,7 +50,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-5.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-5.jpg" alt="Portolio Image">
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -58,7 +58,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-6.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-6.jpg" alt="Portolio Image">
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -66,7 +66,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-7.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-7.jpg" alt="Portolio Image">
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -74,7 +74,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-8.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-8.jpg" alt="Portolio Image">
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -82,7 +82,7 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="img/projects/project-9.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-9.jpg" alt="Portolio Image">
                         <div><span>Image Project</span></div>
                     </figure>
                 </li>
@@ -116,7 +116,7 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="img/projects/project-1.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-1.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>
@@ -183,13 +183,13 @@
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="assets/img/projects/project-3.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-2.jpg" alt="slide 2">
+                                    <img src="assets/img/projects/project-2.jpg" alt="slide 2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="assets/img/projects/project-1.jpg" alt="slide 3">
                                 </div>
                             </div>
                         </div>
@@ -220,8 +220,8 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <video id="video" class="responsive-video" controls="" poster="img/projects/project-1.jpg">
-                            <source src="img/projects/video.mp4" type="video/mp4">
+                        <video id="video" class="responsive-video" controls="" poster="assets/img/projects/project-1.jpg">
+                            <source src="assets/img/projects/video.mp4" type="video/mp4">
                         </video>
                         <!-- Main Project Content Ends -->
                     </figure>
@@ -250,7 +250,7 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="img/projects/project-5.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-5.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>
@@ -278,7 +278,7 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="img/projects/project-6.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-6.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>
@@ -306,7 +306,7 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="img/projects/project-7.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-7.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>
@@ -334,7 +334,7 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="img/projects/project-8.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-8.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>
@@ -362,7 +362,7 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="img/projects/project-9.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project-9.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>
@@ -370,9 +370,9 @@
             </ul>
             <!-- Portfolio Navigation Starts -->
             <nav>
-                <span class="icon nav-prev"><img src="img/projects/navigation/left-arrow.png" alt="previous"></span>
-                <span class="icon nav-next"><img src="img/projects/navigation/right-arrow.png" alt="next"></span>
-                <span class="nav-close"><img src="img/projects/navigation/close-button.png" alt="close"> </span>
+                <span class="icon nav-prev"><img src="assets/img/projects/navigation/left-arrow.png" alt="previous"></span>
+                <span class="icon nav-next"><img src="assets/img/projects/navigation/right-arrow.png" alt="next"></span>
+                <span class="nav-close"><img src="assets/img/projects/navigation/close-button.png" alt="close"> </span>
             </nav>
             <!-- Portfolio Navigation Ends -->
         </section>

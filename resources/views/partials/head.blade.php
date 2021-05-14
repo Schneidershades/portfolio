@@ -28,7 +28,7 @@
 <link rel="alternate stylesheet" type="text/css" title="purple" href='{{ URL::to("assets/css/skins/purple.css")}}'>
 <link rel="alternate stylesheet" type="text/css" title="red" href='{{ URL::to("assets/css/skins/red.css")}}'>
 <link rel="alternate stylesheet" type="text/css" title="yellowgreen" href='{{ URL::to("assets/css/skins/yellowgreen.css")}}'>
-<link rel="stylesheet" type="text/css" href='{{ URL::to("assets/css/styleswitcher.css")}}'>
+<!-- <link rel="stylesheet" type="text/css" href='{{ URL::to("assets/css/styleswitcher.css")}}'> -->
 
 @yield('stylesheets')
 

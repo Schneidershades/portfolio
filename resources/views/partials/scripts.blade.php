@@ -1,6 +1,6 @@
 
 <script src='{{ URL::to("assets/js/jquery-3.5.0.min.js")}}'></script>
-<script src='{{ URL::to("assets/js/styleswitcher.js")}}'></script>
+<!-- <script src='{{ URL::to("assets/js/styleswitcher.js")}}'></script> -->
 <script src='{{ URL::to("assets/js/preloader.min.js")}}'></script>
 <script src='{{ URL::to("assets/js/fm.revealator.jquery.min.js")}}'></script>
 <script src='{{ URL::to("assets/js/imagesloaded.pkgd.min.js")}}'></script>

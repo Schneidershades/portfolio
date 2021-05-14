@@ -18,24 +18,24 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="assets/img/projects/project-1.jpg" alt="Portolio Image">
-                        <div><span>Image Project</span></div>
+                        <img src="assets/img/projects/project1a.jpg" alt="Portolio Image">
+                        <div><span>Parkit Booking Ecommerce Application</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="assets/img/projects/project-2.jpg" alt="Portolio Image">
-                        <div><span>Youtube Project</span></div>
+                        <img src="assets/img/projects/project2a.jpg" alt="Portolio Image">
+                        <div><span>Admin Application ( Location Manager )</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="assets/img/projects/project-3.jpg" alt="Portolio Image">
-                        <div><span>Slider Project</span></div>
+                        <img src="assets/img/projects/project3a.jpg" alt="Portolio Image">
+                        <div><span>Location Manager Desktop Application</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
@@ -43,7 +43,7 @@
                 <li>
                     <figure>
                         <img src="assets/img/projects/project-4.jpg" alt="Portolio Image">
-                        <div><span>Local Video Project</span></div>
+                        <div><span>Express</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
@@ -51,7 +51,7 @@
                 <li>
                     <figure>
                         <img src="assets/img/projects/project-5.jpg" alt="Portolio Image">
-                        <div><span>Image Project</span></div>
+                        <div><span>Health Management Organization (HMO) & Hospital Claims ERP</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
@@ -104,48 +104,42 @@
                                     <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
                                 </div>
                                 <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Developed  </span>: <span class="ft-wt-600 uppercase">Alone</span>
                                 </div>
                                 <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Vue.Js</span>
                                 </div>
                                 <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">PHP/LARAVEL (API Resource)</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.parkit.ng</a></span>
                                 </div>
                             </div>
                         </figcaption>
-                        <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="assets/img/projects/project-1.jpg" alt="Portolio Image">
-                        <!-- Main Project Content Ends -->
-                    </figure>
-                </li>
-                <!-- Portfolio Item Detail Ends -->
-                <!-- Portfolio Item Detail Starts -->
-                <li>
-                    <figure>
-                        <!-- Project Details Starts -->
-                        <figcaption>
-                            <h3>Youtube Project</h3>
-                            <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Video</span>
+                        <div id="slider" class="carousel slide portfolio-slider" data-ride="carousel" data-interval="false">
+                            <ol class="carousel-indicators">
+                                <li data-target="#slider" data-slide-to="0" class="active"></li>
+                                <li data-target="#slider" data-slide-to="1"></li>
+                                <li data-target="#slider" data-slide-to="2"></li>
+                                <li data-target="#slider" data-slide-to="3"></li>
+                            </ol>
+                            <!-- The slideshow -->
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="assets/img/projects/project1a.jpg" alt="slide 1">
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Videohive</span>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project1b.jpg" alt="slide 2">
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Adobe After Effects</span>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project1c.jpg" alt="slide 3">
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.videohive.net</a></span>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project1d.jpg" alt="slide 4">
                                 </div>
                             </div>
-                        </figcaption>
-                        <!-- Project Details Ends -->
-                        <!-- Main Project Content Starts -->
-                        <div class="videocontainer">
-                            <iframe class="youtube-video" src="../../embed/7e90gBu4pas.html?enablejsapi=1&version=3&playerapiid=ytplayer" allowfullscreen=""></iframe>
                         </div>
                         <!-- Main Project Content Ends -->
                     </figure>
@@ -155,41 +149,71 @@
                 <li>
                     <figure>
                         <!-- Project Details Starts -->
-                        <figcaption>
-                            <h3>Slider Project</h3>
+                         <figcaption>
+                            <h3>Image Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
+                                <div class="col-12 col-sm-6 mb-2">
                                     <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Themeforest</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Developed  </span>: <span class="ft-wt-600 uppercase">Alone</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Vue.Js</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.themeforest.net</a></span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">PHP/LARAVEL (API Resource)</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Private</a></span>
                                 </div>
                             </div>
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <div id="slider" class="carousel slide portfolio-slider" data-ride="carousel" data-interval="false">
+                        <img src="assets/img/projects/project2a.jpg" alt="Portolio Image">
+                        <!-- Main Project Content Ends -->
+                    </figure>
+                </li>
+                <!-- Portfolio Item Detail Ends -->
+                <!-- Portfolio Item Detail Starts -->
+                <li>
+                    <figure>
+                        <!-- Project Details Starts -->
+                        <figcaption>
+                            <h3>Image Project</h3>
+                            <div class="row open-sans-font">
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Developed  </span>: <span class="ft-wt-600 uppercase">Alone</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Vue.Js, Electron.js</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">PHP/LARAVEL (API Resource)</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Private</a></span>
+                                </div>
+                            </div>
+                        </figcaption>
+                        <!-- Project Details Ends -->
+                        <!-- Main Project Content Starts -->
+                        <div id="slider" class="carousel slide portfolio-slider" data-ride="carousel1" data-interval="false">
                             <ol class="carousel-indicators">
                                 <li data-target="#slider" data-slide-to="0" class="active"></li>
                                 <li data-target="#slider" data-slide-to="1"></li>
-                                <li data-target="#slider" data-slide-to="2"></li>
                             </ol>
                             <!-- The slideshow -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="assets/img/projects/project-3.jpg" alt="slide 1">
+                                    <img src="assets/img/projects/project3a.jpg" alt="slide 1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="assets/img/projects/project-2.jpg" alt="slide 2">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="assets/img/projects/project-1.jpg" alt="slide 3">
+                                    <img src="assets/img/projects/project3b.jpg" alt="slide 2">
                                 </div>
                             </div>
                         </div>

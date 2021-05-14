@@ -15,15 +15,15 @@
         <div class="row">
             <!-- Left Side Starts -->
             <div class="col-12 col-lg-4">
-                <h3 class="text-uppercase custom-title mb-0 ft-wt-600 pb-3">Don't be shy !</h3>
+                <h3 class="text-uppercase custom-title mb-0 ft-wt-600 pb-3">Send me a message !</h3>
                 <p class="open-sans-font mb-3">Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
                 <p class="open-sans-font custom-span-contact position-relative">
                     <i class="fa fa-envelope-open position-absolute"></i>
-                    <span class="d-block">mail me</span>steve@mail.com
+                    <span class="d-block">mail me</span>buskoms@yahoo.com / schneidershades@gmail.com
                 </p>
                 <p class="open-sans-font custom-span-contact position-relative">
                     <i class="fa fa-phone-square position-absolute"></i>
-                    <span class="d-block">call me</span>+216 21 184 010
+                    <span class="d-block">call me</span>+234 703 749 5705
                 </p>
                 <ul class="social list-unstyled pt-1 mb-5">
                     <li class="facebook"><a title="Facebook" href="#"><i class="fa fa-facebook"></i></a>

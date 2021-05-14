@@ -7,7 +7,7 @@
 
 <body class="@yield('bodyClass')">
 <!-- Live Style Switcher Starts - demo only -->
-<div id="switcher" class="">
+<!-- <div id="switcher" class="">
     <div class="content-switcher">
         <h4>STYLE SWITCHER</h4>
         <ul>
@@ -44,7 +44,7 @@
         </ul>
     </div>
 </div>
-<div id="showSwitcher" class="styleSecondColor"><i class="fa fa-cog fa-spin"></i></div>
+<div id="showSwitcher" class="styleSecondColor"><i class="fa fa-cog fa-spin"></i></div> -->
 <!-- Live Style Switcher Ends - demo only -->
 <!-- Header Starts -->
 @yield('headerContent')

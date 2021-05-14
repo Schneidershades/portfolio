@@ -87,6 +87,15 @@
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
+
+                <!-- Portfolio Item Starts -->
+                <li>
+                    <figure>
+                        <img src="assets/img/projects/project10a.jpg" alt="Portolio Image">
+                        <div><span>Dropbox Clone(Fun Project)</span></div>
+                    </figure>
+                </li>
+                <!-- Portfolio Item Ends -->
             </ul>
         </section>
         <!-- Portfolio Grid Ends -->
@@ -457,6 +466,44 @@
                     </figure>
                 </li>
                 <!-- Portfolio Item Detail Ends -->
+
+                <li>
+                    <figure>
+                        <!-- Project Details Starts -->
+                        <figcaption>
+                            <h4>Dropbox Clone</h4>
+                            <div class="row open-sans-font">
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Dropbox Clone</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Stack </span>: <span class="ft-wt-600 uppercase">HTML CSS Laravel Livewire</span>
+                                </div>
+                                <!-- <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">irecharge.com.ng</a></span>
+                                </div> -->
+                            </div>
+                        </figcaption>
+                        <!-- Project Details Ends -->
+                        <!-- Main Project Content Starts -->
+                        <div id="slider6" class="carousel slide portfolio-slider" data-ride="carousel" data-interval="false">
+                            <ol class="carousel-indicators">
+                                <li data-target="#slider6" data-slide-to="0" class="active"></li>
+                                <li data-target="#slider6" data-slide-to="1"></li>
+                            </ol>
+                            <!-- The slideshow -->
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="assets/img/projects/project10a.jpg" alt="slide 1">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project10b.jpg" alt="slide 2">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Main Project Content Ends -->
+                    </figure>
+                </li>
             </ul>
             <!-- Portfolio Navigation Starts -->
             <nav>

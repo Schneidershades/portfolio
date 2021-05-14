@@ -202,10 +202,10 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <div id="slider" class="carousel slide portfolio-slider" data-ride="carousel1" data-interval="false">
+                        <div id="slider2" class="carousel slide portfolio-slider" data-ride="carousel" data-interval="false">
                             <ol class="carousel-indicators">
-                                <li data-target="#slider" data-slide-to="0" class="active"></li>
-                                <li data-target="#slider" data-slide-to="1"></li>
+                                <li data-target="#slider2" data-slide-to="0" class="active"></li>
+                                <li data-target="#slider2" data-slide-to="1"></li>
                             </ol>
                             <!-- The slideshow -->
                             <div class="carousel-inner">
@@ -226,27 +226,42 @@
                     <figure>
                         <!-- Project Details Starts -->
                         <figcaption>
-                            <h3>Local Video Project</h3>
+                            <h3>Express Mobile Application</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Video</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Mobile Application</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Videohive</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Developed  </span>: <span class="ft-wt-600 uppercase">Alone</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Adobe Premium</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">Ionic</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">PHP/LARAVEL (API Resource)</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Private</a></span>
                                 </div>
                             </div>
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <video id="video" class="responsive-video" controls="" poster="assets/img/projects/project-1.jpg">
-                            <source src="assets/img/projects/video.mp4" type="video/mp4">
-                        </video>
+                        <div id="slider3" class="carousel slide portfolio-slider" data-ride="carousel" data-interval="false">
+                            <ol class="carousel-indicators">
+                                <li data-target="#slider3" data-slide-to="0" class="active"></li>
+                                <li data-target="#slider3" data-slide-to="1"></li>
+                            </ol>
+                            <!-- The slideshow -->
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="assets/img/projects/project3a.jpg" alt="slide 1">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project3b.jpg" alt="slide 2">
+                                </div>
+                            </div>
+                        </div>
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>

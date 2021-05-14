@@ -96,6 +96,33 @@
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
+
+                <!-- Portfolio Item Starts -->
+                <li>
+                    <figure>
+                        <img src="assets/img/projects/project11a.jpg" alt="Portolio Image">
+                        <div><span>Dropbox Clone(Fun Project)</span></div>
+                    </figure>
+                </li>
+                <!-- Portfolio Item Ends -->
+
+                <!-- Portfolio Item Starts -->
+                <li>
+                    <figure>
+                        <img src="assets/img/projects/project12a.jpg" alt="Portolio Image">
+                        <div><span>Dropbox Clone(Fun Project)</span></div>
+                    </figure>
+                </li>
+                <!-- Portfolio Item Ends -->
+
+                <!-- Portfolio Item Starts -->
+                <li>
+                    <figure>
+                        <img src="assets/img/projects/project13a.jpg" alt="Portolio Image">
+                        <div><span>Dropbox Clone(Fun Project)</span></div>
+                    </figure>
+                </li>
+                <!-- Portfolio Item Ends -->
             </ul>
         </section>
         <!-- Portfolio Grid Ends -->
@@ -501,6 +528,96 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Main Project Content Ends -->
+                    </figure>
+                </li>
+
+                <li>
+                    <figure>
+                        <!-- Project Details Starts -->
+                        <figcaption>
+                            <h4>iRecharge Application</h4>
+                            <div class="row open-sans-font">
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">iRecharge Application</span>
+                                </div>
+                                <div class="col-12 col-sm-12 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Collaborators  </span>: <span class="ft-wt-600 uppercase">schneidershades@gmail.com tobenna@infostrategytech.com, michaelogbuma@gmail.com, ifyinbox@gmail.com, layifunsho@yahoo.com </span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML CSS jQuery</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">Vanila PHP</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">irecharge.com.ng</a></span>
+                                </div>
+                            </div>
+                        </figcaption>
+                        <!-- Project Details Ends -->
+                        <!-- Main Project Content Starts -->
+                        <img src="assets/img/projects/project11a.jpg" alt="Portolio Image">
+                        <!-- Main Project Content Ends -->
+                    </figure>
+                </li>
+
+                <li>
+                    <figure>
+                        <!-- Project Details Starts -->
+                        <figcaption>
+                            <h4>iRecharge Application</h4>
+                            <div class="row open-sans-font">
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">iRecharge Application</span>
+                                </div>
+                                <div class="col-12 col-sm-12 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Collaborators  </span>: <span class="ft-wt-600 uppercase">schneidershades@gmail.com tobenna@infostrategytech.com, michaelogbuma@gmail.com, ifyinbox@gmail.com, layifunsho@yahoo.com </span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML CSS jQuery</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">Vanila PHP</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">irecharge.com.ng</a></span>
+                                </div>
+                            </div>
+                        </figcaption>
+                        <!-- Project Details Ends -->
+                        <!-- Main Project Content Starts -->
+                        <img src="assets/img/projects/project12a.jpg" alt="Portolio Image">
+                        <!-- Main Project Content Ends -->
+                    </figure>
+                </li>
+
+                <li>
+                    <figure>
+                        <!-- Project Details Starts -->
+                        <figcaption>
+                            <h4>iRecharge Application</h4>
+                            <div class="row open-sans-font">
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">iRecharge Application</span>
+                                </div>
+                                <div class="col-12 col-sm-12 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Collaborators  </span>: <span class="ft-wt-600 uppercase">schneidershades@gmail.com tobenna@infostrategytech.com, michaelogbuma@gmail.com, ifyinbox@gmail.com, layifunsho@yahoo.com </span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML CSS jQuery</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">Vanila PHP</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">irecharge.com.ng</a></span>
+                                </div>
+                            </div>
+                        </figcaption>
+                        <!-- Project Details Ends -->
+                        <!-- Main Project Content Starts -->
+                        <img src="assets/img/projects/project13a.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>

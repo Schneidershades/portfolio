@@ -443,7 +443,7 @@
                                     <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
                                 </div>
                                 <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Stack </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Vue.js, Websockets</span>
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Stack </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Vue.js, Laravel/PHP, Websockets</span>
                                 </div>
                                 <div class="col-6 mb-2">
                                     <i class="fa fa-external-link pr-2"></i><span class="project-label">Github Username </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">schneidershades</a></span>

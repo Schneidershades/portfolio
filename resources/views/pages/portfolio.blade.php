@@ -427,7 +427,7 @@
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="assets/img/projects/project-8.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project8a.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>

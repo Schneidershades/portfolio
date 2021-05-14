@@ -58,16 +58,16 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="assets/img/projects/project-6.jpg" alt="Portolio Image">
-                        <div><span>Image Project</span></div>
+                        <img src="assets/img/projects/project6a.jpg" alt="Portolio Image">
+                        <div><span>iRecharge Website</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="assets/img/projects/project-7.jpg" alt="Portolio Image">
-                        <div><span>Image Project</span></div>
+                        <img src="assets/img/projects/project7a.jpg" alt="Portolio Image">
+                        <div><span>iRecharge Mobile App</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
@@ -287,7 +287,7 @@
                                     <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML CSS jQuery</span>
                                 </div>
                                 <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">LARAVEL BLADE TEMPLATE ENGINE</span>
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">LARAVEL BLADE</span>
                                 </div>
                                 <div class="col-12 col-sm-6 mb-2">
                                     <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">Private</a></span>
@@ -321,25 +321,28 @@
                     <figure>
                         <!-- Project Details Starts -->
                         <figcaption>
-                            <h3>Image Project</h3>
+                            <h4>iRecharge Application</h4>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">iRecharge Application</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="col-12 col-sm-12 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Collaborators  </span>: <span class="ft-wt-600 uppercase">schneidershades@gmail.com tobenna@infostrategytech.com, michaelogbuma@gmail.com, ifyinbox@gmail.com, layifunsho@yahoo.com </span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML CSS jQuery</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">Vanila PHP</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">irecharge.com.ng</a></span>
                                 </div>
                             </div>
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="assets/img/projects/project-6.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project6a.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>
@@ -349,25 +352,54 @@
                     <figure>
                         <!-- Project Details Starts -->
                         <figcaption>
-                            <h3>Image Project</h3>
+                            <h4>iRecharge Mobile App</h4>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">iRecharge Mobile App</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="col-12 col-sm-12 mb-2">
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Collaborators  </span>: <span class="ft-wt-600 uppercase">schneidershades@gmail.com tobenna@infostrategytech.com, michaelogbuma@gmail.com, ifyinbox@gmail.com, layifunsho@yahoo.com </span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Frontend </span>: <span class="ft-wt-600 uppercase">HTML CSS jQuery</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Backend </span>: <span class="ft-wt-600 uppercase">Vanila PHP</span>
+                                </div>
+                                <div class="col-12 col-sm-6 mb-2">
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">irecharge.com.ng</a></span>
                                 </div>
                             </div>
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="assets/img/projects/project-7.jpg" alt="Portolio Image">
+                        <div id="slider5" class="carousel slide portfolio-slider" data-ride="carousel" data-interval="false">
+                            <ol class="carousel-indicators">
+                                <li data-target="#slider5" data-slide-to="0" class="active"></li>
+                                <li data-target="#slider5" data-slide-to="1"></li>
+                                <li data-target="#slider5" data-slide-to="2"></li>
+                                <li data-target="#slider5" data-slide-to="3"></li>
+                                <li data-target="#slider5" data-slide-to="4"></li>
+                            </ol>
+                            <!-- The slideshow -->
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="assets/img/projects/project7a.jpg" alt="slide 1">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project7b.jpg" alt="slide 2">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project7c.jpg" alt="slide 3">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project7d.jpg" alt="slide 4">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="assets/img/projects/project7e.jpg" alt="slide 5">
+                                </div>
+                            </div>
+                        </div>
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>

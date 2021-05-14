@@ -74,16 +74,16 @@
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="assets/img/projects/project-8.jpg" alt="Portolio Image">
-                        <div><span>Image Project</span></div>
+                        <img src="assets/img/projects/project8a.jpg" alt="Portolio Image">
+                        <div><span>Todo (Fun Project)</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
-                        <img src="assets/img/projects/project-9.jpg" alt="Portolio Image">
-                        <div><span>Image Project</span></div>
+                        <img src="assets/img/projects/project9a.jpg" alt="Portolio Image">
+                        <div><span>Twitter Clone(Fun Project)</span></div>
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
@@ -275,7 +275,7 @@
                     <figure>
                         <!-- Project Details Starts -->
                         <figcaption>
-                            <h3>Image Project</h3>
+                            <h3>Health Insurance Web Application</h3>
                             <div class="row open-sans-font">
                                 <div class="col-12 col-sm-6 mb-2">
                                     <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Health Insurance Application</span>
@@ -409,19 +409,19 @@
                     <figure>
                         <!-- Project Details Starts -->
                         <figcaption>
-                            <h3>Image Project</h3>
+                            <h3>Todo Web</h3>
                             <div class="row open-sans-font">
                                 <div class="col-6 mb-2">
                                     <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
                                 </div>
                                 <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Mode </span>: <span class="ft-wt-600 uppercase">Fun Project</span>
                                 </div>
                                 <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Vue</span>
                                 </div>
                                 <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Github Username </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">schneidershades</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -437,25 +437,22 @@
                     <figure>
                         <!-- Project Details Starts -->
                         <figcaption>
-                            <h4>Image Project</h4>
+                            <h4>Twitter Clone</h4>
                             <div class="row open-sans-font">
                                 <div class="col-6 mb-2">
                                     <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
                                 </div>
                                 <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                    <i class="fa fa-code pr-2"></i><span class="project-label">Stack </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Vue.js, Websockets</span>
                                 </div>
                                 <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
-                                </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Github Username </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">schneidershades</a></span>
                                 </div>
                             </div>
                         </figcaption>
                         <!-- Project Details Ends -->
                         <!-- Main Project Content Starts -->
-                        <img src="assets/img/projects/project-9.jpg" alt="Portolio Image">
+                        <img src="assets/img/projects/project9a.jpg" alt="Portolio Image">
                         <!-- Main Project Content Ends -->
                     </figure>
                 </li>

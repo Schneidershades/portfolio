@@ -208,8 +208,16 @@
                             <div class="icon">
                                 <i class="fa fa-briefcase"></i>
                             </div>
-                            <span class="time open-sans-font text-uppercase">January 2016 - April 2018</span>
+                            <span class="time open-sans-font text-uppercase">January 2012 - April 2015</span>
                             <h5 class="poppins-font text-uppercase">Web Developer Intern <span class="place open-sans-font">Codekago</span></h5>
+                            <!-- <p class="open-sans-font">Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt</p> -->
+                        </li>
+                        <li>
+                            <div class="icon">
+                                <i class="fa fa-briefcase"></i>
+                            </div>
+                            <span class="time open-sans-font text-uppercase">January 2009 - April 2010</span>
+                            <h5 class="poppins-font text-uppercase">Web Designer <span class="place open-sans-font">A. A Adejuwon Accounting School</span></h5>
                             <!-- <p class="open-sans-font">Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt</p> -->
                         </li>
                     </ul>

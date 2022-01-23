@@ -60,7 +60,7 @@
             <div>
                 <img src='{{ URL::to("assets/img/img-mobile-me.jpg")}}' class="img-fluid main-img-mobile d-none d-sm-block d-lg-none" alt="my picture">
                 <h1 class="text-uppercase poppins-font">I'm Schneider Komolafe.<span> Software Engineering Manager</span></h1>
-                <p class="open-sans-font">I'm a software engineer manager focused on crafting clean & user‑friendly experiences within teams, I am passionate about building excellent software that improves the lives of those around me.</p>
+                <p class="open-sans-font">I'm a software engineer manager focused on crafting clean & user‑friendly experiences within teams, I am passionate about building excellent software that improves the lives of those it evolves around.</p>
                 <a class="button" href="/portfolio">
                     <span class="button-text"> my portfolio</span>
                     <span class="button-icon fa fa-arrow-right"></span>

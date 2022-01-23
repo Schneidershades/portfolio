@@ -184,8 +184,17 @@
                             <div class="icon">
                                 <i class="fa fa-briefcase"></i>
                             </div>
-                            <span class="time open-sans-font text-uppercase">December 2019 - Present</span>
-                            <h5 class="poppins-font text-uppercase">Chief Technology Officer (CTO) <span class="place open-sans-font">Parkit Company Limited</span></h5>
+                            <span class="time open-sans-font text-uppercase">September 2021 - Febuary 2022</span>
+                            <h5 class="poppins-font text-uppercase">Software Engineering Manager<span class="place open-sans-font">Fixit45</span></h5>
+                            <!-- <p class="open-sans-font">Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit, </p> -->
+                        </li>
+
+                        <li>
+                            <div class="icon">
+                                <i class="fa fa-briefcase"></i>
+                            </div>
+                            <span class="time open-sans-font text-uppercase">December 2018 - August 2021</span>
+                            <h5 class="poppins-font text-uppercase">Cofounder / Chief Technology Officer (CTO) <span class="place open-sans-font">Parkit Company Limited (Acquired)</span></h5>
                             <!-- <p class="open-sans-font">Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit, </p> -->
                         </li>
                         <li>

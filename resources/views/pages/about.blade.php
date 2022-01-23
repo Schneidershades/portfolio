@@ -57,19 +57,19 @@
                 <div class="row">
                     <div class="col-6">
                         <div class="box-stats with-margin">
-                            <h3 class="poppins-font position-relative">11</h3>
+                            <h3 class="poppins-font position-relative">12</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">years of <span class="d-block">experience</span></p>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="box-stats with-margin">
-                            <h3 class="poppins-font position-relative">41</h3>
+                            <h3 class="poppins-font position-relative">64</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">completed <span class="d-block">projects</span></p>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="box-stats">
-                            <h3 class="poppins-font position-relative">27</h3>
+                            <h3 class="poppins-font position-relative">33</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Happy<span class="d-block">customers</span></p>
                         </div>
                     </div>

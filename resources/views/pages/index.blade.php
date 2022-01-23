@@ -65,6 +65,11 @@
                     <span class="button-text"> my portfolio</span>
                     <span class="button-icon fa fa-arrow-right"></span>
                 </a>
+
+                <a class="button" href="/portfolio">
+                    <span class="button-text"> Click to view my company acquisition news</span>
+                    <span class="button-icon fa fa-arrow-right"></span>
+                </a>
             </div>
         </div>
     </div>

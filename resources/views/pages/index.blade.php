@@ -67,8 +67,8 @@
                     <span class="button-icon fa fa-arrow-right"></span>
                 </a>
 
-                <a class="button" href="/portfolio">
-                    <span class="button-text"> Click to view my company acquisition news</span>
+                <a class="button" href="https://techpoint.africa/2021/12/22/recently-acquired-parkits-co-founders-gerald-okonkwo-schneider-komolafe-disrupted-the-autocare-industry-using-technology/">
+                    <span class="button-text"> View my company's acquisition news</span>
                     <span class="button-icon fa fa-arrow-right"></span>
                 </a>
             </div>
